@@ -1,6 +1,6 @@
 <h1 align="center"> Chat</h1>
 
-<p align="center"> Este é um projeto de Desenvolvimento WEB do desafio #boraCodar promovido pela Rocketseat. Esse chat desenvolvido utilizando o conceito de flexbox.</p>
+<p align="center"> Este é um projeto de Desenvolvimento WEB do desafio #boraCodar promovido pela Rocketseat. Este chat foi desenvolvido utilizando o conceito de flexbox.</p>
 
 <br>
 
@@ -14,7 +14,7 @@ As tecnologias utilizadas nesse projeto foram as seguintes:
 
 ## 💻 Projeto
 
-Esse projeto é apenas uma demonstração visual de um chat responsivo para WEB, não contendo nenhuma função de funcionamento.
+Este projeto é apenas uma demonstração visual de um chat responsivo para WEB, não contendo nenhuma função.
 
 - [Projeto Online](https://aleelohn.github.io/chat-boracodar/)
 
