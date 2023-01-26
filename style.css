@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:#1A1924;
+    padding: 32px 72px;
+    color: #E1E1E6;
+    font-family: 'Roboto';
+}
+
+header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.profile-picture {
+    width: 56px;
+    height: 56px;
+}
+
+.name-status {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    padding-inline: 16px;
+}
+
+.status {
+    display: flex;
+    align-items: center;
+    margin-top: 4px;
+    gap: 4px;
+}
+
+.status-icon {
+    width: 12px;
+    height: 12px;
+    background-color: #00B37E;
+    border-radius: 50%;
+}
+
+h4 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 19px;
+}
+
+.status {
+    color: #00B37E;
+}
+
+.close {
+    width: 16px;
+    height: 16px;
+}
+
+.date {
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-bottom: 30px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.message-area-friend {
+    width: 100%;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.message-friend {
+    width: fit-content;
+    background-color: #633BBC;
+    border-radius: 0px 8px 8px 8px;
+    padding: 14px;
+}
+
+.message-area-mine {
+    width: 100%;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.message-mine {
+    width: fit-content;
+    background-color: #07847E;
+    border-radius: 8px 8px 0px 8px;
+    padding: 14px;
+}
+
+.type-message {
+    background-color: #282843;
+    margin-top: 100px;
+    padding: 14px 24px;
+    border-radius: 999px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
